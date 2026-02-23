@@ -51,7 +51,7 @@ const testimonials: Testimonial[] = [
 .t-inner { max-width: 1120px; margin: 0 auto; }
 .t-header { margin-bottom: 48px; }
 .eyebrow { font-size: 12px; font-weight: 500; letter-spacing: 1.5px; text-transform: uppercase; color: var(--accent-2); margin-bottom: 14px; }
-.t-title { font-family: 'Instrument Serif', serif; font-size: clamp(30px, 4vw, 50px); letter-spacing: -1.2px; line-height: 1.1; color: var(--ink); }
+.t-title { font-family: 'Cabinet Grotesk'; font-size: clamp(30px, 4vw, 50px); letter-spacing: -1.2px; line-height: 1.1; color: var(--ink); }
 .t-title em { font-style: italic; color: var(--accent-2); }
 .t-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
 .t-card {

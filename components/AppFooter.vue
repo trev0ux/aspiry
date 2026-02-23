@@ -40,7 +40,8 @@ const cols: FooterCol[] = [
       <!-- Brand column -->
       <div class="footer-brand">
         <a href="#" class="footer-logo">
-          <span class="logo-text">Aspiry</span><span class="logo-dot">.</span>
+          <img src="/logo.svg" alt="" class="logo-img" aria-hidden="true" />
+          <span class="logo-wordmark">Aspiry</span>
         </a>
         <p class="footer-tagline">
           Sua marca pessoal,<br />finalmente no lugar certo.
@@ -88,20 +89,21 @@ const cols: FooterCol[] = [
 .footer-logo {
   text-decoration: none;
   display: flex;
-  align-items: baseline;
-  gap: 1px;
+  align-items: center;
+  gap: 8px;
   width: fit-content;
 }
-.logo-text {
-  font-family: 'Instrument Serif', serif;
+.logo-img {
+  width: 22px;
+  height: auto;
+  display: block;
+}
+.logo-wordmark {
+  font-family: 'Cabinet Grotesk', sans-serif;
   font-size: 20px;
+  font-weight: 700;
   letter-spacing: -0.4px;
   color: var(--ink);
-}
-.logo-dot {
-  font-family: 'Instrument Serif', serif;
-  font-size: 20px;
-  color: var(--accent-2);
 }
 .footer-tagline {
   font-size: 13px;

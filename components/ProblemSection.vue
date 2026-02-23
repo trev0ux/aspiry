@@ -63,7 +63,7 @@ const cards: ProblemCard[] = [
 }
 
 .section-title {
-  font-family: 'Instrument Serif', serif;
+  font-family: 'Cabinet Grotesk';
   font-size: clamp(32px, 4vw, 52px);
   line-height: 1.1;
   letter-spacing: -1px;

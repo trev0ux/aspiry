@@ -102,7 +102,7 @@ const steps: Step[] = [
   color: var(--accent-green-light); margin-bottom: 16px;
 }
 .showcase-title {
-  font-family: 'Instrument Serif', serif;
+  font-family: 'Cabinet Grotesk';
   font-size: clamp(36px, 5vw, 60px);
   letter-spacing: -1.5px; line-height: 1.05;
   color: #fff; margin-bottom: 14px;
@@ -119,7 +119,7 @@ const steps: Step[] = [
 .step-item:first-child { padding-top: 0; }
 .step-item:last-child  { border-bottom: none; padding-bottom: 0; }
 .step-num {
-  font-family: 'Instrument Serif', serif;
+  font-family: 'Cabinet Grotesk';
   font-size: 22px; color: rgba(255,255,255,0.15);
   line-height: 1.3; flex-shrink: 0; width: 30px;
 }

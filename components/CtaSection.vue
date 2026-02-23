@@ -29,7 +29,7 @@
 .cta-inner { max-width: 680px; margin: 0 auto; }
 .eyebrow { font-size: 12px; font-weight: 500; letter-spacing: 1.5px; text-transform: uppercase; color: var(--accent-2); margin-bottom: 20px; }
 .cta-title {
-  font-family: 'Instrument Serif', serif;
+  font-family: 'Cabinet Grotesk';
   font-size: clamp(40px, 5.5vw, 72px);
   letter-spacing: -2.5px; line-height: 1.03;
   color: var(--ink); margin-bottom: 24px;

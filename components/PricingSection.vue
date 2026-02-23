@@ -90,7 +90,7 @@ const plans: Plan[] = [
 
 .pricing-header { text-align: center; margin-bottom: 48px; }
 .eyebrow { font-size: 12px; font-weight: 500; letter-spacing: 1.5px; text-transform: uppercase; color: var(--accent-2); margin-bottom: 14px; }
-.pricing-title { font-family: 'Instrument Serif', serif; font-size: clamp(32px, 4vw, 52px); letter-spacing: -1.5px; line-height: 1.08; color: var(--ink); margin-bottom: 12px; }
+.pricing-title { font-family: 'Cabinet Grotesk'; font-size: clamp(32px, 4vw, 52px); letter-spacing: -1.5px; line-height: 1.08; color: var(--ink); margin-bottom: 12px; }
 .pricing-title em { font-style: italic; color: var(--accent-2); }
 .pricing-sub { font-size: 14.5px; color: var(--ink-muted); font-weight: 300; }
 
@@ -112,7 +112,7 @@ const plans: Plan[] = [
 .plan-name { font-size: 12.5px; font-weight: 500; color: var(--ink-muted); margin-bottom: 7px; }
 .plan-card.highlight .plan-name { color: rgba(255,255,255,0.42); }
 .plan-price-row { display: flex; align-items: baseline; gap: 5px; margin-bottom: 11px; }
-.plan-price { font-family: 'Instrument Serif', serif; font-size: 44px; letter-spacing: -2px; line-height: 1; color: var(--ink); }
+.plan-price { font-family: 'Cabinet Grotesk'; font-size: 44px; letter-spacing: -2px; line-height: 1; color: var(--ink); }
 .plan-card.highlight .plan-price { color: #fff; }
 .plan-period { font-size: 14px; color: var(--ink-muted); font-weight: 300; }
 .plan-card.highlight .plan-period { color: rgba(255,255,255,0.38); }

@@ -11,7 +11,8 @@ onUnmounted(() => window.removeEventListener('scroll', onScroll))
   <header :class="['nav-header', { scrolled }]">
     <nav class="nav-inner">
       <a href="#" class="nav-logo" aria-label="Aspiry home">
-        <span class="logo-text">✨ Aspiry</span><span class="logo-dot"></span>
+        <img src="/logo.svg" alt="" class="logo-img" aria-hidden="true" />
+        <span class="logo-wordmark">Aspiry</span>
       </a>
       <ul class="nav-links" role="list">
         <li><a href="#como-funciona">Como funciona</a></li>
@@ -51,9 +52,9 @@ onUnmounted(() => window.removeEventListener('scroll', onScroll))
   max-width: 1120px; margin: 0 auto; padding: 0 32px; height: 58px;
   display: grid; grid-template-columns: 180px 1fr 200px; align-items: center;
 }
-.nav-logo { text-decoration: none; display: flex; align-items: baseline; gap: 1px; width: fit-content; }
-.logo-text { font-family: 'Instrument Serif', serif; font-size: 21px; letter-spacing: -0.5px; color: var(--ink); font-weight: 700; }
-.logo-dot  { font-family: 'Instrument Serif', serif; font-size: 21px; color: var(--accent-2); }
+.nav-logo { text-decoration: none; display: flex; align-items: center; gap: 8px; width: fit-content; }
+.logo-img { width: 22px; height: auto; display: block; }
+.logo-wordmark { font-family: 'Cabinet Grotesk'; font-size: 20px; font-weight: 700; letter-spacing: -0.5px; color: var(--ink); }
 .nav-links { display: flex; align-items: center; justify-content: center; gap: 2px; list-style: none; }
 .nav-links a {
   font-size: 13.5px; font-weight: 400; color: var(--ink-soft);

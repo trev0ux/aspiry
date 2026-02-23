@@ -110,7 +110,7 @@
   color: var(--accent-2); margin-bottom: 14px;
 }
 .features-title {
-  font-family: 'Instrument Serif', serif;
+  font-family: 'Cabinet Grotesk';
   font-size: clamp(32px, 4.5vw, 54px);
   letter-spacing: -1.5px;
   line-height: 1.08;
@@ -203,7 +203,7 @@
 /* Score big */
 .score-big-wrap { margin-top: 20px; }
 .score-big-num {
-  font-family: 'Instrument Serif', serif;
+  font-family: 'Cabinet Grotesk';
   font-size: 44px; color: var(--accent-2);
   letter-spacing: -2px; display: block; line-height: 1; margin-bottom: 3px;
 }

@@ -141,7 +141,7 @@
 .hero-copy { padding: 0 24px; max-width: 800px; }
 
 .hero-headline {
-  font-family: 'Instrument Serif', serif;
+  font-family: 'Cabinet Grotesk';
   font-size: clamp(54px, 8.5vw, 72px);
   line-height: 1.0;
   letter-spacing: -3.5px;
@@ -262,7 +262,7 @@
   gap: 0;
 }
 .sb-logo {
-  font-family: 'Instrument Serif', serif;
+  font-family: 'Cabinet Grotesk';
   font-size: 14.5px;
   color: var(--ink);
   padding: 0 14px 14px;
