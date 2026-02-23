@@ -141,7 +141,7 @@
 
 .hero-headline {
   font-family: 'Cabinet Grotesk';
-  font-size: clamp(54px, 8.5vw, 72px);
+  font-size: clamp(32px, 8.5vw, 72px);
   line-height: 1.0;
   letter-spacing: -3.5px;
   color: var(--ink);
