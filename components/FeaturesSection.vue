@@ -74,7 +74,7 @@
           <div class="bento-wide-layout">
             <div>
               <h3 style="color:#fff">Escale sua carreira como você imagina.</h3>
-              <p style="color: rgba(255,255,255,0.55)">Quer freelancer? A Aspiry cria o portfólio. Quer mercado europeu? A Aspiry guia o passo. Quer ser referência? A Aspiry te ajuda a criar autoridade. Tudo customizado pro seu objetivo.</p>
+              <p style="color: rgba(255,255,255,0.55)">Quer freelancer? A Aspiry cria o portfólio. Quer mercado internacional? A Aspiry guia o passo. Quer ser referência? A Aspiry te ajuda a criar autoridade. Tudo customizado pro seu objetivo.</p>
             </div>
             <div class="bento-wide-pills" aria-hidden="true">
               <span class="wide-pill">🌐 Mercado europeu</span>

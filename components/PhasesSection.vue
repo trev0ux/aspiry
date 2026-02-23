@@ -41,7 +41,7 @@ const phases: Phase[] = [
     items: [
       { text: 'Portfolio estratégico (sua vitrine comercial)' },
       { text: 'Orientação pra freelancer/autônomo' },
-      { text: 'Posicionamento pro mercado europeu/inglês' },
+      { text: 'Posicionamento pro mercado internacional' },
       { text: 'Orientação de conteúdo toda semana' },
       { text: 'Acesso à comunidade de careers' },
       { text: 'Acompanhamento contínuo (pivô, novo direcionamento)' },
