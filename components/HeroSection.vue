@@ -7,7 +7,7 @@
         Você já tem o talento.<br /><em>Agora você decide como o mercado te vê.</em>
       </h1>
       <p class="hero-sub">
-        Envie seu CV e LinkedIn. A Aspiry encontra seus diferenciais reais e entrega os ativos para você construir sua narrativa — sem depender de ninguém, em minutos.
+        Envie seu CV e LinkedIn. A Aspiry encontra seus diferenciais reais e gera os ativos que fazem recrutadores te notarem — em minutos.
       </p>
       <div class="hero-ctas">
         <a href="#comecar" class="cta-primary">Analisar minha carreira agora →</a>
