@@ -1,1 +1,0 @@
-export { default } from "file:///C:/Projects/aspiry/node_modules/@nuxt/vite-builder/dist/vite-node-entry.mjs"
