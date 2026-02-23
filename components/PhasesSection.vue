@@ -18,15 +18,15 @@ const phases: Phase[] = [
   {
     pill: 'Grátis',
     pillClass: 'free',
-    title: 'Fase 1 — Entre no mercado',
+    title: 'Sessão Inicial — Seu Diagnóstico',
     description:
-      'Para quem está buscando o primeiro emprego ou reposicionamento. Use sem pagar nada enquanto estiver nessa fase.',
+      'Seu primeiro diagnóstico com seu assistente de carreira. Perfil analisado, estratégia mapeada, orientações prontas. Enquanto você tiver buscando emprego, é grátis.',
     items: [
-      { text: 'Diagnóstico completo do seu perfil' },
-      { text: 'LinkedIn otimizado (headline + sobre + experiências)' },
-      { text: 'CV formatado e pronto para ATS' },
-      { text: '3 posts iniciais sugeridos' },
-      { text: 'Explicação do raciocínio de cada ativo' },
+      { text: 'Diagnóstico estratégico da sua carreira' },
+      { text: 'Posicionamento LinkedIn mapeado' },
+      { text: 'CV estratégico (passa em ATS + impressiona)' },
+      { text: 'Primeiras 3 orientações de conteúdo' },
+      { text: 'Você entende o raciocínio por trás' },
     ],
     priceAmount: 'R$ 0',
     pricePeriod: '/ para sempre',
@@ -35,20 +35,20 @@ const phases: Phase[] = [
   {
     pill: 'Pago',
     pillClass: 'paid',
-    title: 'Fase 2 — Escale a carreira',
+    title: 'Acompanhamento Contínuo — Escale sua Carreira',
     description:
-      'Para quem já tem emprego e quer crescer — seja como autônomo, referência na área ou com olho no mercado internacional.',
+      'Pra quem quer desenvolver carreira rapidinho — freelancer, referência, mercado internacional, promoção. Seu assistente de carreira continua acompanhando semana a semana.',
     items: [
-      { text: 'Portfólio profissional como vitrine comercial' },
-      { text: 'Posicionamento para carreira autônoma' },
-      { text: 'LinkedIn e CV em inglês para mercado europeu' },
-      { text: 'Sugestões de conteúdo semanais personalizadas' },
-      { text: 'Comunidade de networking exclusiva' },
-      { text: 'Reposicionamento contínuo conforme você evolui' },
+      { text: 'Portfolio estratégico (sua vitrine comercial)' },
+      { text: 'Orientação pra freelancer/autônomo' },
+      { text: 'Posicionamento pro mercado europeu/inglês' },
+      { text: 'Orientação de conteúdo toda semana' },
+      { text: 'Acesso à comunidade de careers' },
+      { text: 'Acompanhamento contínuo (pivô, novo direcionamento)' },
     ],
-    priceAmount: 'R$ 19',
+    priceAmount: 'R$ 49',
     pricePeriod: '/ mês',
-    priceNote: 'Comece quando quiser, cancele quando quiser.',
+    priceNote: 'Comece quando quiser. Cancele quando quiser.',
   },
 ]
 </script>
@@ -59,7 +59,7 @@ const phases: Phase[] = [
       <div class="fade-in">
         <p class="section-label">Planos</p>
         <h2 class="section-title">
-          Grátis agora.<br /><em>Pago quando fizer sentido.</em>
+          Primeira análise grátis.<br /><em>Acompanhamento contínuo acessível.</em>
         </h2>
       </div>
 

@@ -9,10 +9,10 @@
       <div class="features-header fade-in">
         <p class="eyebrow">Apresentando a Aspiry</p>
         <h2 class="features-title">
-          IA que sabe o que o<br /><em>recrutador quer ver.</em>
+          Seu assistente de carreira<br /><em>está sempre disponível.</em>
         </h2>
         <p class="features-sub">
-          Tudo no mesmo lugar. Sem precisar de carreira coach, consultant caro, ou amigo que trabalha em RH.
+          Análise profunda do seu perfil. Orientação pra semana seguinte. Plano de carreira claro. Tudo que um consultor caro ofereceria, mas sem as 60x + R$ 800/sessão.
         </p>
       </div>
 
@@ -22,8 +22,8 @@
         <!-- Large: diagnóstico IA -->
         <div class="bento-card bento-large fade-in">
           <div class="bento-tag orange">IA + análise humana</div>
-          <h3>Diagnóstico que descobre<br />seu trabalho.</h3>
-          <p>Nossa IA não inventa — ela encontra o que você já fez que é diferente. Mapeia diferenciais reais, gaps de posicionamento e keywords da sua área.</p>
+          <h3>Análise que conhece<br />sua carreira inteira.</h3>
+          <p>Sua IA lê CV, LinkedIn, experiência. Descobre o que você realmente faz bem (que você nem vê). Entende seus gaps. E monta uma estratégia de carreira baseada em dados, não em achismo.</p>
           <div class="bento-mini-ui" aria-hidden="true">
             <div class="mini-row">
               <span class="mini-label">Proposta de valor identificada</span>
@@ -48,8 +48,8 @@
         <!-- LinkedIn -->
         <div class="bento-card fade-in">
           <div class="bento-icon" style="background:#EBF3FF; color:#2563EB">💼</div>
-          <h3>LinkedIn que não parece de todo mundo</h3>
-          <p>Headline, "Sobre" e experiências reescritas com linguagem de mercado. Com o raciocínio de cada escolha explicado.</p>
+          <h3>Seu posicionamento no LinkedIn fica cristalino</h3>
+          <p>Seu assistente de carreira reescreve headline, seção "Sobre", experiências — mas com a sua voz, não genérica. E explica cada decisão pra você aprender o raciocínio de positioning.</p>
           <div class="bento-tag-row" aria-hidden="true">
             <span class="b-tag">Headline</span>
             <span class="b-tag">Sobre</span>
@@ -60,8 +60,8 @@
         <!-- CV ATS -->
         <div class="bento-card fade-in" style="background: var(--bg-warm)">
           <div class="bento-icon" style="background:#FEF3EC; color:var(--pop-orange)">📋</div>
-          <h3>CV que passa pelo robô</h3>
-          <p>Formatado no padrão ATS com as keywords que os sistemas das empresas filtram. Sem precisar de template pago.</p>
+          <h3>CV que passa nos filtros (e impressiona quem lê)</h3>
+          <p>CV formatado pra ATS + redigido pra você. Seu assistente de carreira garante que passa nos algoritmos das empresas, mas que também impressiona quando passa pra mão humana.</p>
           <div class="score-big-wrap" aria-hidden="true">
             <span class="score-big-num">94%</span>
             <span class="score-big-label">ATS score médio</span>
@@ -73,8 +73,8 @@
           <div class="bento-tag white">Fase 2 · R$ 19/mês</div>
           <div class="bento-wide-layout">
             <div>
-              <h3 style="color:#fff">Portfólio & carreira autônoma.</h3>
-              <p style="color: rgba(255,255,255,0.55)">Vitrine comercial, posicionamento freelancer, LinkedIn em inglês e carreira no mercado europeu. Tudo quando você quiser escalar.</p>
+              <h3 style="color:#fff">Escale sua carreira como você imagina.</h3>
+              <p style="color: rgba(255,255,255,0.55)">Quer freelancer? A Aspiry cria o portfólio. Quer mercado europeu? A Aspiry guia o passo. Quer ser referência? A Aspiry te ajuda a criar autoridade. Tudo customizado pro seu objetivo.</p>
             </div>
             <div class="bento-wide-pills" aria-hidden="true">
               <span class="wide-pill">🌐 Mercado europeu</span>
@@ -87,8 +87,8 @@
         <!-- Posts -->
         <div class="bento-card fade-in">
           <div class="bento-icon" style="background:#F3EEFF; color:#7C3AED">📝</div>
-          <h3>Primeiros 3 posts sugeridos</h3>
-          <p>Estrutura e ideia prontas pra você publicar. Sem tela em branco, sem "o que eu vou postar hoje".</p>
+          <h3>Orientação de conteúdo pra você aparecer</h3>
+          <p>Seu assistente de carreira sugere tema, estrutura, ideia — baseado no que é tendência na sua área e no que te posiciona melhor. Sem tela em branco, sem ansiedade.</p>
         </div>
 
       </div>

@@ -44,7 +44,7 @@ const cols: FooterCol[] = [
           <span class="logo-wordmark">Aspiry</span>
         </a>
         <p class="footer-tagline">
-          Sua marca pessoal,<br />finalmente no lugar certo.
+          Seu assistente de carreira<br />está aqui.
         </p>
         <p class="footer-made">Feito no Brasil 🇧🇷</p>
       </div>

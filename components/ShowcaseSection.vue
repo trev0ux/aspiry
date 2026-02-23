@@ -3,10 +3,10 @@ interface Step {
   num: string; title: string; desc: string
 }
 const steps: Step[] = [
-  { num: '01', title: 'Joga os materiais', desc: 'CV em PDF + LinkedIn exportado. 30 segundos de upload e a Aspiry tem tudo que precisa.' },
-  { num: '02', title: 'A IA faz o trabalho', desc: 'Mapeia seus diferenciais reais, identifica as palavras-chave da sua área e entende o que o recrutador vai procurar.' },
-  { num: '03', title: 'Tudo pronto pra copiar', desc: 'LinkedIn, CV e posts gerados com explicação do raciocínio. Você entende por que cada palavra foi escolhida.' },
-  { num: '04', title: 'Aplica e cresce', desc: 'Usa os ativos, pega o emprego. Quer mais? Avança pra Fase 2 e escala a carreira do jeito que você quiser.' },
+  { num: '01', title: 'A Aspiry te conhece', desc: 'Upload CV + LinkedIn. Seu assistente de carreira lê tudo que você já fez, entende sua trajetória, mapeia seus pontos fortes e identifica seus gaps.' },
+  { num: '02', title: 'Diagnóstico estratégico', desc: 'Você recebe análise completa: o que você faz bem, o que precisa desenvolver, qual é seu melhor próximo passo na carreira, e como se posicionar.' },
+  { num: '03', title: 'Orientação pronta pro uso', desc: 'LinkedIn reescrito, CV otimizado, primeiras estratégias de conteúdo — tudo com a lógica explicada. Você entende por que cada decisão foi tomada.' },
+  { num: '04', title: 'Comece a aplicar (e cresça)', desc: 'Comece com as orientações. Quando conseguir o emprego ou quiser crescer mais rápido, seu assistente de carreira continua orientando — agora pra próximo nível.' },
 ]
 </script>
 
@@ -18,9 +18,9 @@ const steps: Step[] = [
       <div class="showcase-left fade-in">
         <p class="eyebrow">Como funciona</p>
         <h2 class="showcase-title">
-          De CV jogado a<br /><em>perfil magnético.</em>
+          Quatro passos:<br /><em>de perdido a orientado.</em>
         </h2>
-        <p class="showcase-sub">Quatro etapas. Sem consultor. Sem formulário eterno.</p>
+        <p class="showcase-sub">Seu assistente de carreira desenha o caminho. Sem consultor. Sem enrolação.</p>
 
         <ol class="steps-list">
           <li v-for="s in steps" :key="s.num" class="step-item">

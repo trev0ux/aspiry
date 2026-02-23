@@ -10,30 +10,30 @@ const steps: Step[] = [
   {
     num: '01',
     icon: '📄',
-    title: 'Envie seus materiais',
+    title: 'A Aspiry te conhece',
     description:
-      'Faça upload do seu CV em PDF e do LinkedIn exportado. A Aspiry analisa tudo que você já tem.',
+      'Upload CV + LinkedIn. Seu assistente de carreira lê tudo que você já fez, entende sua trajetória, mapeia seus pontos fortes e identifica seus gaps.',
   },
   {
     num: '02',
     icon: '🔍',
-    title: 'Diagnóstico inteligente',
+    title: 'Diagnóstico estratégico',
     description:
-      'Nossa IA identifica seus diferenciais reais, gaps de posicionamento e o que os recrutadores estão procurando.',
+      'Você recebe análise completa: o que você faz bem, o que precisa desenvolver, qual é seu melhor próximo passo na carreira, e como se posicionar.',
   },
   {
     num: '03',
     icon: '✨',
-    title: 'Ativos gerados',
+    title: 'Orientação pronta pro uso',
     description:
-      'Receba headline, seção "Sobre", CV otimizado e primeiros posts — com explicação do raciocínio por trás.',
+      'LinkedIn reescrito, CV otimizado, primeiras estratégias de conteúdo — tudo com a lógica explicada. Você entende por que cada decisão foi tomada.',
   },
   {
     num: '04',
     icon: '🚀',
-    title: 'Aplique e cresça',
+    title: 'Comece a aplicar (e cresça)',
     description:
-      'Use os ativos prontos. Quando conseguir o emprego, continue evoluindo com os planos avançados.',
+      'Comece com as orientações. Quando conseguir o emprego ou quiser crescer mais rápido, seu assistente de carreira continua orientando — agora pra próximo nível.',
   },
 ]
 </script>
@@ -44,7 +44,7 @@ const steps: Step[] = [
       <div class="fade-in">
         <p class="section-label">Como funciona</p>
         <h2 class="section-title">
-          De invisível a <em>referência</em><br />em quatro passos
+          Vier passos entre você<br />e <em>clareza de carreira</em>
         </h2>
       </div>
 

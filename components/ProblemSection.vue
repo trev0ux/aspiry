@@ -8,21 +8,21 @@ interface ProblemCard {
 const cards: ProblemCard[] = [
   {
     icon: '😶',
-    title: 'Tela em branco',
+    title: 'Não saber o próximo passo',
     description:
-      'Você abre o LinkedIn pra editar o perfil e não sabe nem por onde começar. O que escrever? Que tom usar? Por que ninguém responde?',
+      'Você não tem clareza sobre qual é seu próximo movimento. Continua no mesmo lugar ou tenta algo novo? Quer crescer aqui ou buscar outro mercado? Sem alguém pra conversar, fica paralisado.',
   },
   {
     icon: '🤷',
-    title: 'Parecer genérico',
+    title: 'Parecer genérico no mercado',
     description:
-      'Seu perfil parece igual ao de todos os outros. "Profissional dedicado e apaixonado por tecnologia." Recrutadores passam reto.',
+      'Seu perfil não destaca o que você realmente sabe fazer. Recrutadores passam reto. E você não consegue articular seus pontos fortes de um jeito que faça sentido.',
   },
   {
     icon: '🔇',
-    title: 'Postar no vazio',
+    title: 'Decidir sozinho vai derrubar você',
     description:
-      'Quando você tenta criar conteúdo, não sabe o que dizer, fica em silêncio por semanas e sente que está invisível no mercado.',
+      'Fazer a carreira crescer envolve decisões — que conteúdo publicar, que vaga pedir, como se reposicionar. Sem orientação, você erra. E erros custam tempo e oportunidade.',
   },
 ]
 </script>
@@ -32,7 +32,7 @@ const cards: ProblemCard[] = [
     <div class="fade-in">
       <p class="section-label">O problema</p>
       <h2 class="section-title">
-        Você é bom no que faz.<br />Só ninguém <em>sabe disso</em>.
+        Todo mundo enfrenta as mesmas<br />3 <em>barreiras na carreira</em>.
       </h2>
     </div>
 

@@ -4,17 +4,16 @@
     <!-- ── Headline + CTAs ─────────────────────────────────────────── -->
     <div class="hero-copy">
       <h1 class="hero-headline">
-        Você já tem o talento.<br /><em>Só falta o mundo saber disso.</em>
+        Você já tem o talento.<br /><em>Agora você decide como o mercado te vê.</em>
       </h1>
       <p class="hero-sub">
-        Envie seu CV e LinkedIn. A Aspiry encontra seus diferenciais reais e gera
-        os ativos que fazem recrutadores te notarem — em minutos.
+        Envie seu CV e LinkedIn. A Aspiry encontra seus diferenciais reais e entrega os ativos para você construir sua narrativa — sem depender de ninguém, em minutos.
       </p>
       <div class="hero-ctas">
-        <a href="#comecar" class="cta-primary">Analisar meu perfil grátis →</a>
+        <a href="#comecar" class="cta-primary">Analisar minha carreira agora →</a>
         <a href="#como-funciona" class="cta-ghost">Ver como funciona</a>
       </div>
-      <p class="hero-note">🔒 Gratuito para quem está buscando o primeiro emprego. Sem cartão.</p>
+      <p class="hero-note">Análise inicial grátis. Sem cartão. Sem cobranças escondidas.</p>
     </div>
 
     <!-- ── Product mockup (browser + app UI) ─────────────────────── -->

@@ -22,7 +22,7 @@ onUnmounted(() => window.removeEventListener('scroll', onScroll))
       </ul>
       <div class="nav-actions">
         <a href="#" class="nav-login">Entrar</a>
-        <a href="#comecar" class="nav-cta">Começa grátis →</a>
+        <a href="#comecar" class="nav-cta">Analisar minha carreira →</a>
       </div>
       <button class="nav-mobile-btn" :aria-expanded="menuOpen" aria-label="Menu" @click="menuOpen = !menuOpen">
         <span/><span/><span/>

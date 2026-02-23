@@ -26,7 +26,7 @@ const testimonials: Testimonial[] = [
     <div class="t-inner">
       <div class="t-header fade-in">
         <p class="eyebrow">Resultados reais</p>
-        <h2 class="t-title">O que falam quem<br /><em>saiu do anonimato.</em></h2>
+        <h2 class="t-title">Quem recebeu orientação<br /><em>certa, voou.</em></h2>
       </div>
       <div class="t-grid">
         <div v-for="t in testimonials" :key="t.name" class="t-card fade-in">

@@ -11,30 +11,30 @@ interface Deliverable {
 const deliverables: Deliverable[] = [
   {
     icon: '💼',
-    title: 'LinkedIn completo e otimizado',
+    title: 'Posicionamento LinkedIn estratégico',
     description:
-      'Headline, seção "Sobre", experiências reescritas com linguagem de mercado. Com explicação do porquê de cada escolha.',
-    tag: 'Grátis na Fase 1',
+      'Seu assistente de carreira reescreve headline, seção "Sobre", e experiências. Tudo claro, estratégico, com sua voz. E você entende o raciocínio.',
+    tag: 'Grátis na Sessão Inicial',
     featured: true,
   },
   {
     icon: '📋',
-    title: 'CV pronto para ATS',
+    title: 'CV que passa em algoritmos (e impressiona gente)',
     description:
-      'Currículo formatado, com as palavras-chave certas para passar pelos filtros automáticos das empresas.',
+      'Seu assistente de carreira formata pro ATS, coloca keywords certas, e garante que impressiona quando passa pra mão humana.',
   },
   {
     icon: '📝',
-    title: 'Primeiros 3 posts sugeridos',
+    title: 'Orientação de conteúdo pra aparecer',
     description:
-      'Estrutura e ideia para seus primeiros conteúdos no LinkedIn. Sem tela em branco, sem ansiedade.',
+      'Seu assistente de carreira sugere tema, estrutura, ângulo. Tudo baseado no que posiciona você e no que é tendência na sua área.',
   },
   {
     icon: '🌐',
-    title: 'Portfólio e carreira autônoma',
+    title: 'Escale pra onde você quer ir',
     description:
-      'Para quem quer ir além do CLT — vitrine comercial, posicionamento para freelas e carreira internacional.',
-    tag: 'Fase 2',
+      'Você quer ser freelancer? A Aspiry desenha o portfolio. Mercado internacional? A Aspiry orienta. Referência? A Aspiry te ajuda a criar autoridade. Customizado pro seu objetivo.',
+    tag: 'Acompanhamento Contínuo',
     tagStyle: 'background:#FEF0E8; color:#C8622A;',
   },
 ]
@@ -45,7 +45,7 @@ const deliverables: Deliverable[] = [
     <div class="fade-in">
       <p class="section-label">O que você recebe</p>
       <h2 class="section-title">
-        Tudo que você precisa<br />para <em>ser encontrado</em>
+        O que seu assistente<br />entrega de <em>primeira</em>
       </h2>
     </div>
 

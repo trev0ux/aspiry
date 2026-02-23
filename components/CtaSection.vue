@@ -3,16 +3,16 @@
     <div class="cta-inner fade-in">
       <p class="eyebrow">Comece agora</p>
       <h2 class="cta-title">
-        Tu já tem o que<br />o recrutador quer ver.<br /><em>Só falta mostrar.</em>
+        Seu primeiro diagnóstico<br />de carreira<br /><em>é hoje.</em>
       </h2>
       <p class="cta-sub">
-        Joga teu CV e LinkedIn. A Aspiry faz o resto em minutos.
+        Joga CV + LinkedIn. Seu assistente de carreira lê tudo, descobre o que você faz bem, e desenha o próximo passo.
         <strong>Grátis. Sem cartão. Sem enrolação.</strong>
       </p>
       <div class="cta-actions">
-        <a href="#" class="cta-btn">Analisar meu perfil grátis →</a>
+        <a href="#" class="cta-btn">Analisar minha carreira agora →</a>
         <span class="cta-fine">
-          Sem cadastro demorado · Sem compromisso · Resultado em minutos
+          Sem cadastro complicado · Seu assistente começa em minutos · Orientações prontas pra usar
         </span>
       </div>
     </div>

@@ -9,37 +9,37 @@ interface Plan {
 const plans: Plan[] = [
   {
     pill: 'Grátis', pillStyle: 'background: var(--accent-green-bg); color: var(--accent-2)',
-    name: 'Fase 1', price: 'R$ 0', period: '',
-    description: 'Pra quem tá no mercado de trabalho agora. Sem cartão, sem armadilha, sem papo de startup.',
+    name: 'Sessão Inicial', price: 'R$ 0', period: '',
+    description: 'Seu primeiro diagnóstico com seu assistente de carreira. Perfil analisado, estratégia mapeada, orientações prontas. Sem cartão.',
     features: [
-      { text: 'Diagnóstico completo do perfil', included: true },
-      { text: 'LinkedIn otimizado (headline + sobre + exp.)', included: true },
-      { text: 'CV formatado e pronto pra ATS', included: true },
-      { text: '3 posts iniciais sugeridos', included: true },
-      { text: 'Raciocínio de cada decisão explicado', included: true },
-      { text: 'Portfólio profissional', included: false },
-      { text: 'LinkedIn em inglês (mercado europeu)', included: false },
-      { text: 'Comunidade de networking exclusiva', included: false },
+      { text: 'Diagnóstico estratégico da sua carreira', included: true },
+      { text: 'Posicionamento LinkedIn mapeado', included: true },
+      { text: 'CV estratégico (passa em ATS + impressiona)', included: true },
+      { text: 'Primeiras 3 orientações de conteúdo', included: true },
+      { text: 'Você entende o raciocínio por trás', included: true },
+      { text: 'Portfolio estratégico (sua vitrine comercial)', included: false },
+      { text: 'Posicionamento pro mercado europeu/inglês', included: false },
+      { text: 'Acesso à comunidade de careers', included: false },
     ],
     cta: 'Começar grátis agora', ctaHref: '#comecar',
-    highlight: false, note: 'Grátis enquanto você tiver buscando emprego. Ponto.',
+    highlight: false, note: 'Enquanto você tiver buscando emprego, é grátis. Sem cartão.',
   },
   {
     pill: 'Mais popular', pillStyle: 'background: rgba(255,255,255,0.12); color: rgba(255,255,255,0.8)',
-    name: 'Fase 2', price: 'R$ 19', period: '/ mês',
-    description: 'Pra quem já empregou e quer crescer de vez — autônomo, referência na área ou mira no mercado lá fora.',
+    name: 'Acompanhamento Contínuo', price: 'R$ 49', period: '/ mês',
+    description: 'Pra quem quer desenvolver carreira rapidinho — freelancer, referência, mercado internacional, promoção. Seu assistente de carreira continua acompanhando semana a semana.',
     features: [
-      { text: 'Tudo da Fase 1', included: true },
-      { text: 'Portfólio profissional (vitrine comercial)', included: true },
-      { text: 'Posicionamento pra carreira autônoma', included: true },
-      { text: 'LinkedIn + CV em inglês (mercado europeu)', included: true },
-      { text: 'Sugestões de conteúdo semanais', included: true },
-      { text: 'Reposicionamento contínuo', included: true },
-      { text: 'Comunidade de networking exclusiva', included: true },
-      { text: 'Cancela quando quiser', included: true },
+      { text: 'Tudo da Sessão Inicial', included: true },
+      { text: 'Portfolio estratégico (sua vitrine comercial)', included: true },
+      { text: 'Orientação pra freelancer/autônomo', included: true },
+      { text: 'Posicionamento pro mercado europeu/inglês', included: true },
+      { text: 'Orientação de conteúdo toda semana', included: true },
+      { text: 'Acompanhamento contínuo (pivô, novo direcionamento, qualquer hora)', included: true },
+      { text: 'Acesso à comunidade de careers', included: true },
+      { text: 'Para quando quiser (sem punição)', included: true },
     ],
-    cta: 'Ativar Fase 2', ctaHref: '#comecar',
-    highlight: true, note: 'Começa quando quiser. Para quando quiser.',
+    cta: 'Ativar acompanhamento contínuo', ctaHref: '#comecar',
+    highlight: true, note: 'Comece quando quiser. Cancele quando quiser.',
   },
 ]
 </script>
@@ -49,8 +49,8 @@ const plans: Plan[] = [
     <div class="pricing-inner">
       <div class="pricing-header fade-in">
         <p class="eyebrow">Planos</p>
-        <h2 class="pricing-title">Grátis agora.<br /><em>Paga só quando decolar.</em></h2>
-        <p class="pricing-sub">Sem cartão. Sem pegadinha. Promessa de startup honesta.</p>
+        <h2 class="pricing-title">Primeira análise com seu assistente?<br /><em>Grátis.</em></h2>
+        <p class="pricing-sub">Depois, é só R$ 49/mês pro acompanhamento contínuo. Sem cartão agora. Sem amarras depois.</p>
       </div>
       <div class="pricing-grid fade-in">
         <div v-for="p in plans" :key="p.name" :class="['plan-card', { highlight: p.highlight }]">

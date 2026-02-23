@@ -13,7 +13,7 @@ export default defineNuxtConfig({
         {
           name: 'description',
           content:
-            'Envie seu CV e LinkedIn. A Aspiry analisa tudo, encontra seus diferenciais reais e gera os ativos que fazem recrutadores te notarem.',
+            'Seu AI assistente analisa sua carreira, desenha seu próximo passo, e te orienta pra crescer — tudo acessível. Coaching de carreira sem o preço do coach.',
         },
       ],
       link: [],
